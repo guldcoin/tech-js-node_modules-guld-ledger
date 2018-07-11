@@ -1,6 +1,6 @@
 {
   "name": "guld-ledger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Guld ledger interface.",
   "main": "index.js",
   "bin": {
@@ -21,8 +21,8 @@
   "license": "MIT",
   "dependencies": {
     "email-addresses": "^3.0.1",
-    "guld-env": "^1.0.4",
-    "guld-fs": "^1.2.5",
+    "guld-env": "^1.0.5",
+    "guld-fs": "^1.2.6",
     "inquirer": "^6.0.0",
     "merge-options": "^1.0.1",
     "user-home": "^2.0.0",
@@ -48,5 +48,7 @@
   "readme": "README.md",
   "engines": {
     "node": ">=7"
-  }
+  },
+  "homepage": "https://github.com/isysd/tech-js-node_modules-guld-ledger#readme",
+  "repository": "git@github.com:isysd/tech-js-node_modules-guld-ledger.git"
 }
