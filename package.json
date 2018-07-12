@@ -21,8 +21,8 @@
   "license": "MIT",
   "dependencies": {
     "email-addresses": "^3.0.1",
-    "guld-env": "^1.0.13",
-    "guld-fs": "^1.2.13",
+    "guld-env": "^1.0.14",
+    "guld-fs": "^1.2.14",
     "inquirer": "^6.0.0",
     "merge-options": "^1.0.1",
     "user-home": "^2.0.0",
